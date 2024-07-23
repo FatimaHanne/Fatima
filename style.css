@@ -1,0 +1,58 @@
+.h1{
+    font-weight: bold;
+    background: -webkit-linear-gradient(#25136D, #F2B45A);
+   -webkit-background-clip: text;
+   -webkit-text-fill-color: transparent;
+}
+.span{
+    border: 3px solid #FCEE4F;
+    width: 15%;
+}
+.border{
+    border-image:linear-gradient (#25136D, #F2B45A); ;
+}
+.h5{
+    font-weight: bold;
+    color: white;
+}
+.p{
+    color: white;
+}
+.p1{
+    color:rgb(129, 127, 127);
+    font-family:Roboto Slab, serif;
+}
+.h6{
+color: #007896;
+font-size: 20px;
+font-family:Roboto Slab, serif;
+}
+.h2{
+    font-weight: bold;
+    color: white;
+}
+.button{
+   background-color: #007896;
+   color: white;
+   padding: 2%;
+   border-bottom: 3px solid white;
+   border-top: 3px solid white;
+   border-left: 3px solid white;
+   border-right:3px solid white ;
+}
+.ELLIPSE{
+    transform: rotate(-9deg);
+    -moz-transform: rotate(-9deg);
+    -webkit-transform: rotate(-9deg);
+    -khtml-transform: rotate(-9deg);
+}
+.borde{
+    border: #007896 solid 3px;
+    width: 5%;
+}
+.bordure{
+    border:  white 3px solid;
+   width: 90%;
+   margin: auto;
+}
+               
